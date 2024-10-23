@@ -1,7 +1,9 @@
-# Processamento de Imagem e Visão Computacional
+# Projeto de Reconhecimento de Imagens
+Este repositório contém um projeto de reconhecimento de imagens, treinado para identificar 5 objetos diferentes usando a ferramenta [Teachable Machine](https://teachablemachine.withgoogle.com).
 
-## Descrição
-Este projeto foi desenvolvido com o objetivo de aplicar técnicas de processamento de imagem e visão computacional para reconhecer objetos em imagens. O código foi treinado para identificar e classificar 5 diferentes objetos.
+## Descrição do Projeto
+Utilizamos o Teachable Machine para treinar um modelo de aprendizado de máquina capaz de reconhecer 5 categorias distintas de objetos. A ferramenta nos permitiu coletar imagens de cada objeto, treinar o modelo diretamente no navegador e gerar o arquivo de treinamento de forma simples e intuitiva.
+
 
 ## Exemplos de Resultados
 
